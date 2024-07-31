@@ -189,10 +189,6 @@
       ]
     },
     {
-      "group": "External Integrations",
-      "pages": []
-    },
-    {
       "group": "Privacy",
       "pages": [
         "privacy/gdpr",
