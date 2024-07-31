@@ -133,8 +133,7 @@
           "group": "🚀 Install On",
           "pages": [
             "integrations/whatsapp",
-            "integrations/crisp",
-            "integrations/telegram"
+            "integrations/crisp"
           ]
         }
       ]
@@ -191,9 +190,7 @@
     },
     {
       "group": "External Integrations",
-      "pages": [
-        "integrations/langchain"
-      ]
+      "pages": []
     },
     {
       "group": "Privacy",
